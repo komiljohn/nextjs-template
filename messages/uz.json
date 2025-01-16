@@ -1,5 +1,15 @@
 {
-  "Home": {
-    "title": "Bandlash yaxshilandi"
+  "login": "Kirish",
+  "login_title": "Tizimga kirish",
+  "username": "Foydalanuvchi ismi",
+  "enter_username": "Foydalanuvchi ismini kiriting",
+  "password": "Parol",
+  "enter_password": "Parolni kiriting",
+  "phone": "Telefon raqam",
+  "enter_phone": "Telefon raqamni kiriting",
+  "login_confirm": "Tasdiqlash",
+  "login_confirm_description": "Tizimga kirishni tasdiqlash",
+  "errors": {
+    "phone_invalid": "Iltimos to'g'ri telefon raqam kiriting"
   }
 }

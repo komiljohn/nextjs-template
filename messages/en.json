@@ -1,5 +1,15 @@
 {
-  "Home": {
-    "title": "Booking made better"
+  "login": "Login",
+  "login_title": "Login to System",
+  "username": "Username",
+  "enter_username": "Enter Username",
+  "password": "Password",
+  "enter_password": "Enter Password",
+  "phone": "Phone Number",
+  "enter_phone": "Enter Phone Number",
+  "login_confirm": "Confirm",
+  "login_confirm_description": "Confirm Login to System",
+  "errors": {
+    "phone_invalid": "Please enter a valid phone number"
   }
 }

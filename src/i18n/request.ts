@@ -17,7 +17,7 @@ export default getRequestConfig(async ({ requestLocale }) => {
     timeZone: "Asia/Tashkent",
     messages: (
       await (locale === "uz"
-        ? // When using Turbopack, this will enable HMR for `en`
+        ? // When using Turbopack, this will enable HMR for `uz`
           import("../../messages/uz.json")
         : import(`../../messages/${locale}.json`))
     ).default,
